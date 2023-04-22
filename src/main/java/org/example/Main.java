@@ -8,5 +8,9 @@ public class Main {
         System.out.println(osoba.getInfo());
         Osoba osoba2 = new Osoba("Amelia", "Nowak");
         System.out.println(osoba2.getInfo());
+        Osoba osoba3 = new Osoba("Amelia", "Nowak");
+        System.out.println(osoba3.getInfo());
+        System.out.println(osoba3.getInfo());
+
     }
 }
