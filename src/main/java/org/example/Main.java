@@ -12,6 +12,6 @@ public class Main {
         System.out.println(osoba3.getInfo());
         System.out.println(osoba3.getInfo());
         System.out.println("test 56456");
-        System.out.println("Hello stret45345453");
+        System.out.println("Hello 5555555555");
     }
 }
